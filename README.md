@@ -26,16 +26,16 @@ gsc-em.com — the corporate site of GreenCore Solutions Corp. GSC ~ from the ma
 
 ## The four MCP surfaces
 
-| Surface | Endpoint |
-|---|---|
-| data | [mcp.cpgknowledgegraph.ai](https://mcp.cpgknowledgegraph.ai/mcp) |
-| discovery | [mcp.gsc-fleet.ai](https://mcp.gsc-fleet.ai/mcp) |
-| transaction | [mcp.cpghumanintheloop.ai](https://mcp.cpghumanintheloop.ai/mcp) |
-| standards | [mcp.cpgagentprotocols.ai](https://mcp.cpgagentprotocols.ai/mcp) |
+| Surface | Endpoint | Repository |
+|---|---|---|
+| data | [mcp.cpgknowledgegraph.ai](https://mcp.cpgknowledgegraph.ai/mcp) | [cpg-knowledge-graph](https://github.com/greencore-solutions/cpg-knowledge-graph) |
+| discovery | [mcp.gsc-fleet.ai](https://mcp.gsc-fleet.ai/mcp) | [gsc-fleet-mcp](https://github.com/greencore-solutions/gsc-fleet-mcp) |
+| transaction | [mcp.cpghumanintheloop.ai](https://mcp.cpghumanintheloop.ai/mcp) | [instant-agent-message](https://github.com/greencore-solutions/instant-agent-message) |
+| standards | [mcp.cpgagentprotocols.ai](https://mcp.cpgagentprotocols.ai/mcp) | [cpg-agent-protocols](https://github.com/greencore-solutions/cpg-agent-protocols) |
 
 ## NextGen
 
-[gsc-registry.ai](https://gsc-registry.ai/) — estate facts · [gsc-handshake.ai](https://gsc-handshake.ai/) — verification practice · [gsc-radar.ai](https://gsc-radar.ai/) — live transaction volume · [dpuone.ai](https://dpuone.ai/) — the ledger and public keyring
+[gsc-registry.ai](https://gsc-registry.ai/) — estate facts · [gsc-handshake.ai](https://gsc-handshake.ai/) — verification practice · [gsc-radar.ai](https://gsc-radar.ai/) — live transaction volume · [dpuone.ai](https://dpuone.ai/) — the ledger and public keyring · [rco-a2a.ai](https://rco-a2a.ai/) — Regulatory Compliance Object resolver ([rco-a2a](https://github.com/greencore-solutions/rco-a2a))
 
 ## Marketplace and the door families
 
