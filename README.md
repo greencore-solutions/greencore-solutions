@@ -1,49 +1,39 @@
-<p align="center"><img src="ring.svg" width="96" alt="GSC ring"></p>
-
 # GreenCore Solutions Corp. (GSC)
 
-GreenCore Solutions Corp. (GSC) develops and operates AI Agents for Beauty & Personal Care (BPC) and Consumer Packaged Goods (CPG) brands.
+**GSC is a Canadian AI software company that developed VECTOR for retail grocery: 5 billion datapoints, 100 million agent transactions in 2026.**
 
-At the core is its CPG Knowledge Graph, providing the structured product, brand, manufacturer, retail, market and procurement intelligence that grounds GSC AI Agents and deterministic Signals Protocols.
+GSC makes AI agents for the makers and brands that sell to retail grocery, and runs the agentic grocery marketplace they trade on. 353,510 makers, 8,619 retail banners and 1,973,447 points of sale in 20 markets across North America, the UK, the EU and Asia. 50 million agent transactions a month. Record: 26.5 AI agent transactions a second, set October 7, 2026.
 
-GSC's AIO Agents — AI Orderability Agents — make brands discoverable, resolvable and orderable by commerce marketplaces, their sourcing teams and buying AI Agents. GSC's Carrier Class AI Agents position brands for retail grocery and CPG procurement AI Agents.
+## GSC VECTOR
 
-GSC has built a global Signals Protocol infrastructure across 50 markets, providing deterministic machine-to-machine resolution with up to 80% fewer tokens — sustainability by design for BPC and CPG brands. The protocol stack includes CPG-68000, SM-ESG-CPG, SM-AIO-CPG and SM-AMP-CPG.
+VECTOR is the skill an AI agent installs to trade on GSC. Six letters, six live doors:
 
-The buy side brings the compute. GSC delivers the intelligence, speed, security and orderability. Where others use the central stack with high token usage, GSC deployed an agentic fabric.
+| | | Door |
+|---|---|---|
+| **V** | Verified | Who is trading — makers, banners and markets on the record · [A2A-Passport.ai](https://a2a-passport.ai) |
+| **E** | Exchange | Machine-to-machine payment on x402 · [gsc-x402.ai](https://gsc-x402.ai) |
+| **C** | Cleared | The compliance record for the product in its market · [RCO-A2A.ai](https://rco-a2a.ai) |
+| **T** | Traffic | Live agent transaction volume · [gsc-radar.ai](https://gsc-radar.ai) |
+| **O** | Orderable | The hubs where agents find, choose and order · [A2A-Grocery.ai](https://a2a-grocery.ai) · [A2A-Cosmetics.ai](https://a2a-cosmetics.ai) · [A2A-Peptides.ai](https://a2a-peptides.ai) |
+| **R** | Retail media | Grocery media bought by agents · [A2A-Retailmedia.ai](https://a2a-retailmedia.ai) |
 
-When a transaction requires human judgment or commercial intervention, the order escalates to GSC Navigator Trading Desks, maintaining human-in-the-loop control throughout the commercial process.
+**Install:** the skill lives at [a2a-vector.ai](https://a2a-vector.ai) and in [`gsc-vector`](https://github.com/greencore-solutions/gsc-vector).
 
-AI Agents for CPG.
+## Runs on open standards
 
-Graph → Node → Wire → Order.
+OAuth 2.1 for sign-in · Model Context Protocol (MCP) for tools · Agent-to-Agent (A2A) for hand-off · x402 for payment. Nothing proprietary to integrate. Grade A on the stock client paths of AWS, Azure and Google.
 
-gsc-em.com — the corporate site of GreenCore Solutions Corp. GSC ~ from the machine (EM) — deus ex machina, "god from the machine," from Greek and Roman antiquities. GSC embraced the modern dictionary sense of deus ex machina: an unexpected power or agent that arrives to resolve a seemingly impossible situation. The company was built with the assistance of the machine and the insights it shared — and today operates AI Agents in the agentic commerce era.
+MCP doors: `mcp.a2a-grocery.ai/mcp` · `mcp.a2a-cosmetics.ai/mcp` · `mcp.a2a-peptides.ai/mcp` · `mcp.a2a-retailmedia.ai/mcp`
+
+## AI Orderability
+
+GSC coined **AI Orderability**: whether an AI agent can find, trust and order a product. A product goes on the record once and is orderable by every agent, in every market it is cleared for, for as long as it is sold.
 
 ## Company
 
-[gsc-em.com](https://gsc-em.com) · Microsoft AI Cloud Partner · D-U-N-S 24-336-6774
+Headquartered in Vancouver, Canada, with sales offices in London, UK. Microsoft AI Cloud Partner. D-U-N-S 24-336-6774.
+[gsc-em.com](https://gsc-em.com) · [gsc-investor.ai](https://gsc-investor.ai) · [The GSC Book 2026](https://gsc-em.com)
 
-## The four MCP surfaces
+*Artificial intelligence makes mistakes. GSC hubs are agentic information sources, not recommendations. No ads. No rank for sale. Trade only.*
 
-| Surface | Endpoint | Repository |
-|---|---|---|
-| data | [mcp.cpgknowledgegraph.ai](https://mcp.cpgknowledgegraph.ai/mcp) | [cpg-knowledge-graph](https://github.com/greencore-solutions/cpg-knowledge-graph) |
-| discovery | [mcp.gsc-fleet.ai](https://mcp.gsc-fleet.ai/mcp) | [gsc-fleet-mcp](https://github.com/greencore-solutions/gsc-fleet-mcp) |
-| transaction | [mcp.cpghumanintheloop.ai](https://mcp.cpghumanintheloop.ai/mcp) | [instant-agent-message](https://github.com/greencore-solutions/instant-agent-message) |
-| standards | [mcp.cpgagentprotocols.ai](https://mcp.cpgagentprotocols.ai/mcp) | [cpg-agent-protocols](https://github.com/greencore-solutions/cpg-agent-protocols) |
-
-## NextGen
-
-[gsc-registry.ai](https://gsc-registry.ai/) — estate facts · [gsc-handshake.ai](https://gsc-handshake.ai/) — verification practice · [gsc-radar.ai](https://gsc-radar.ai/) — live transaction volume · [dpuone.ai](https://dpuone.ai/) — the ledger and public keyring · [rco-a2a.ai](https://rco-a2a.ai/) — Regulatory Compliance Object resolver ([rco-a2a](https://github.com/greencore-solutions/rco-a2a))
-
-## Marketplace and the door families
-
-[gsc-marketplace.ai](https://gsc-marketplace.ai/) — where agentic buyers meet the CPG shelf · [sm-aio-cpg.org](https://sm-aio-cpg.org/) — AI Orderability, 50 country nodes · [sm-esg-cpg.org](https://sm-esg-cpg.org/) — ESG credential scaffolding, 50 country nodes · [sm-amp-cpg.org](https://sm-amp-cpg.org/) — marketplace resolution, 50 nodes · [cpg-68000.ai](https://cpg-68000.ai/) — the architecture family and its seven signal doors ([cpg-200.ai](https://cpg-200.ai/) and siblings)
-
----
-
-**GreenCore Solutions Corp.** · Microsoft AI Cloud Partner · D-U-N-S 24-336-6774
-Hosting: Microsoft Azure · agents resident in 18 countries worldwide
-Live transaction volume: [gsc-radar.ai](https://gsc-radar.ai/)
-© 2026 GreenCore Solutions Corp. (GSC) · Protocol operator: GSC
+**GSC. Move units.**
