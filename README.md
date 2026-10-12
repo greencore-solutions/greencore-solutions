@@ -27,7 +27,7 @@ MCP doors: `mcp.a2a-grocery.ai/mcp` · `mcp.a2a-cosmetics.ai/mcp` · `mcp.a2a-pe
 
 ## AI Orderability
 
-**AI Orderability** is whether an AI agent can find, trust and order a product. A product goes on the record once and is orderable by every agent, in every market it is cleared for, for as long as it is sold.
+**AI Orderability** is whether an AI agent can find, trust and order a product. A product goes on the record once and is orderable by every agent, in every market it is on the record for, for as long as it is sold.
 
 ## Company
 
